@@ -28,7 +28,7 @@ Likewise for Ruby installation.
 To install rails, in the terminal kindly run this command
 
 ## $ gem install rails
-Setup
+ Setup
 Clone the repository using the GitHub link provided below.
 
 ## Install
