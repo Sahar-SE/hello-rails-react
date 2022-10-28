@@ -1,24 +1,68 @@
-# README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+# Hello Rails React
+Generate random greeting messages.
 
-Things you may want to cover:
 
-* Ruby version
+# Made With 🔖
+ - Ruby on Rails
+ - React
+- Linter: Rubocop
+- Code Editor: VS Code
+## Getting Started
+To get a local copy up and running follow these simple steps.
+- $ git clone yourrepo.git
+- $ cd yourrepo
+- $ bundle
+- $ rails db:setup
+- $ rails s
 
-* System dependencies
+# Prerequisites
+ A web browser like Google Chrome.
+ A code editor like Visual Studio Code with Git and Ruby.
+You can check if Git is installed by running the following command in the terminal.
 
-* Configuration
+## $ git --version
+Likewise for Ruby installation.
 
-* Database creation
+## $ ruby --version && irb
+To install rails, in the terminal kindly run this command
 
-* Database initialization
+## $ gem install rails
+Setup
+Clone the repository using the GitHub link provided below.
 
-* How to run the test suite
+## Install
+In the terminal, go to your file directory and run this command.
 
-* Services (job queues, cache servers, search engines, etc.)
+Usage
+Kindly modify the files as needed.
 
-* Deployment instructions
+## bundle install
 
-* ...
+## Setup database
+- rails db:create
+- rails db:migrate
+- rails db:seed
+
+## Authors
+👤 **Sahar Saba Amiri**
+- . Gmail: saharsaba.amiri123@gmail.com
+- . LinkedIn: https://www.linkedin.com/sahar-saba-amiri
+- . GitHub : https://github.com/Sahar-SE
+
+# 🤝 Contributing
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the issues page.
+
+# Show your support
+Give a ⭐️ if you like this project!
+
+# Acknowledgments
+Microverse
+Code Reviewers
+Original design idea by Gregoire Vella on Behance.
+The Creative Commons license of the design requires that you give appropriate credit to the author. Therefore, you must do it in the README of your project.
+
+# 📝 License
+This project is MIT licensed.
